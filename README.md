@@ -1,1 +1,1 @@
-Greetings. The projects in this repository are completed by me at my internship at Syntecxlab. It is a one-month internship opportunity that I was greatful to have been offered.
+Greetings. The projects in this repository are completed by me at my internship at Syntecxlab. It is a one-month internship opportunity that I was greatful to have been offered. The offer letter of this internship is shared here as well.
